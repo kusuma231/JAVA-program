@@ -30,4 +30,11 @@ public static void main(String[] args)
 	simplecalculator.mult(8,5);
 	simplecalculator.div(4,2);
 }
+
 }
+/*output
+Addition=30
+subtraction=2
+multiplication=3
+Divison=2
+*/
