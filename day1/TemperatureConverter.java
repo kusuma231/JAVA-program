@@ -15,3 +15,6 @@ public class TemperatureConverter
 		temperatureconverter.converter();
 	}
 }
+/*output
+enter temperature  in Celsius: 20.0Temperature in Fahrenheit:68.0
+*/
