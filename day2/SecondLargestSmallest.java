@@ -37,4 +37,9 @@ public class SecondLargestSmallest {
 		System.out.println("secondlargest:"+secondlargest);
 }
 }
+/*output
+smallest:2
+secondsmallest:3
+largest:90
+secondlargest:40*/
 
