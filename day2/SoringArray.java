@@ -21,4 +21,10 @@ public class SoringArray {
 		System.out.println(num+" ");
 	}
 }
+
 }
+//output
+1 
+2 
+3 
+4 
