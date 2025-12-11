@@ -21,3 +21,11 @@ public class Merge {
 		}
 	}
 }
+/*output
+Merged  Array:
+1 
+2 
+3 
+4 
+8 
+*/
