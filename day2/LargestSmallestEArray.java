@@ -21,3 +21,6 @@ public static void main(String[] args)
 	System.out.println("largest+number:"+largest);
 }
 }
+/*output
+smallest+number:2
+largest+number:40*/
