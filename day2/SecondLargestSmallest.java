@@ -4,13 +4,15 @@ public class SecondLargestSmallest {
 	public static void main(String[] args)
 	{
 		int arr[]= {10,20,30,40,2,3,5,90};
+		                               //set initial values
 		int smallest = Integer.MAX_VALUE;
 		int secondsmallest = Integer.MAX_VALUE;
 		int largest = Integer.MIN_VALUE;
 		int secondlargest = Integer.MIN_VALUE;
-		for (int num : arr)
+		
+		for (int num : arr)           //loop through array
 		{
-			if (num<smallest)
+			if (num<smallest)         //find smallest and secondsmallest
 			{
 				secondsmallest = smallest;
 				smallest = num;
@@ -19,7 +21,7 @@ public class SecondLargestSmallest {
 			{
 				secondsmallest = num;
 			}
-			if (num>largest)
+			if (num>largest)           //find largest and secondlargest
 			{
 				secondlargest = largest;
 				largest = num;
@@ -35,3 +37,4 @@ public class SecondLargestSmallest {
 		System.out.println("secondlargest:"+secondlargest);
 }
 }
+
