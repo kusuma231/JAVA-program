@@ -15,4 +15,8 @@ public class MarksPercentage {
 		MarksPercentage markspercentage=new MarksPercentage();
 		markspercentage.mark();
 }
+
 }
+/* output
+387
+77.4*/
