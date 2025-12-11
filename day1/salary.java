@@ -16,4 +16,6 @@ public static void main(String[] args)
 	System.out.println("salary increment amout: "+salary.finalsalary);
 }
 }
-
+/*output
+salary increment amout: 550000.0
+*/
