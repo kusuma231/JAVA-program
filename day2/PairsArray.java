@@ -19,3 +19,7 @@ public class PairsArray {
 	}
 
 }
+/* output
+pairs whose sum is 10:
+1+9=10
+*/
