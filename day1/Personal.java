@@ -13,3 +13,9 @@ public static void main (String[] args)
 	System.out.println("Is Student:"+isStudent);
 }
 }
+/*output
+Name:kusuma
+Age:22
+Percentage:85.5
+Is Student:true*/
+
