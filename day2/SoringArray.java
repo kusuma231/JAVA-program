@@ -23,8 +23,9 @@ public class SoringArray {
 }
 
 }
-//output
+/*output
 1 
 2 
 3 
-4 
+4 */
+
