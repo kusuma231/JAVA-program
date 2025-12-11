@@ -24,3 +24,9 @@ public class CountFrequencyArray {
 		}
 	}
 }
+/*output 
+3->2
+4->3
+5->2
+6->2*/
+
