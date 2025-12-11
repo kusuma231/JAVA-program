@@ -15,3 +15,8 @@ public class Swap
 		
 	}
 }
+/*output
+Value1:10
+Value2:20
+Swaping number:20=10*/
+
